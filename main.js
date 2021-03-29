@@ -85,7 +85,7 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
-client.login('ODE4NTU0OTcyNzI3Mjc5NjU3.YEZwuQ.6oS3nwia22n3658ideDbepMG_iE');
+client.login('Your Token here');
 
 client.on('message', message => {
 	if (message.content === ',ping') {
